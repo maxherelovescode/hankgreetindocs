@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Hank Green's Hats Documentation
+==========================================
 
 .. image:: images/hank.jpg
 

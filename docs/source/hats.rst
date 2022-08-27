@@ -17,6 +17,7 @@ Hats Hat
 --------
 .. image:: images/hats.jpg
 If Hank is wearing his **hats** hat (like cats (the musical) but instead of cats it says hats) then you need to do a little wave (A little wave like 1 2 3 4 5 really quickly (that's the whole wave)) but then you need to duck down and put on your **own** hats hat (like cats (the musical) but instead of cats it says hats) and you can do a pirouette but if you can't then that's fine.
+`Buy a hats hat here (just in case) <https://store.dftba.com/products/dumb-hat>`_
 
 Missoula Osprey Hat
 -------------------

@@ -7,7 +7,7 @@ Welcome to Hank Green's Hats Documentation
 
 .. note::
 
-   Failure to comply with the hat code will result in immediate termination.
+   Failure to comply with the hat code will result in immediate community service of house sitting 100 ducks.
 
 Contents
 --------
